@@ -26,7 +26,6 @@ get_header(); ?>
         
         <div class="mar-one-t section" id="directory">
           <?php 
-		  $i = 0;
 		  
 		  
 		  			
