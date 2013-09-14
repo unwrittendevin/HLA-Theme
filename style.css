@@ -1,0 +1,47 @@
+/*
+Theme Name: Hebrew Language Academy
+Theme URI: http://www.hlacharterschool.org/
+Description: A custom responsive theme for Hebrew Language Acedemy based on the Bootstrap framework. Includes multiple page templates, two different sidebars and a theme options panel.
+Version: 1.0
+Author: Devin Kerr
+Author URI: http://dkerrcreative.com
+Tags: black, white, one-column, two-columns, flexible-width, custom-background, custom-colors, custom-menu, full-width-template, theme-options
+License: GNU General Public License v2.0 & Apache License 2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html http://www.apache.org/licenses/LICENSE-2.0
+*/
+
+/* micro clearfix: http://nicolasgallagher.com/micro-clearfix-hack/ */
+/* For modern browsers */
+.clearfix:before,
+.clearfix:after {
+    content:"";
+    display:table;
+}
+
+.clearfix:after {
+    clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix {
+    zoom:1;
+}
+
+/* wp-specific classes */
+.wp-caption{
+	
+}
+
+.wp-caption-text{
+	
+}
+
+.sticky{
+	
+}
+
+.gallery-caption{
+	
+}
+
+/* layout */
